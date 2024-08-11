@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.headerBar{
+    margin: 0%;
+    padding: 0%;
+    background-color: green;
+    width: 100%;
+    height: 50px;
+}
